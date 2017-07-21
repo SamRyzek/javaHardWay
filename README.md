@@ -1,2 +1,1 @@
-# javaHardWay
-javaHardWay pre-work
+javaHardWay
