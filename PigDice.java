@@ -28,7 +28,7 @@ public class PigDice
 				else
 				{
 					turnTotal += roll;
-					System.out.print("\tYou have " + turnTotal + " points." );
+					System.out.print("\tYou have " + turnTotal + " points " );
 					System.out.print( "so far this round.\n" );
 					System.out.print( "\tWould you like to \"roll\" again?" );
 					System.out.print( " or \"hold\"? " );
